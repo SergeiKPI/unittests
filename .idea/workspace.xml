@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c33f73d-cec5-49f3-92d0-5e551d374a3c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ArraysTaskTest.java" afterPath="$PROJECT_DIR$/src/test/java/ArraysTaskTest.java" />
-    </list>
+    <list default="true" id="2c33f73d-cec5-49f3-92d0-5e551d374a3c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -778,7 +776,7 @@
       <workItem from="1507469363476" duration="8521000" />
       <workItem from="1507823516270" duration="763000" />
       <workItem from="1507824404839" duration="117000" />
-      <workItem from="1507824586914" duration="535000" />
+      <workItem from="1507824586914" duration="1134000" />
     </task>
     <servers />
   </component>
@@ -815,7 +813,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9936000" />
+    <option name="totallyTimeSpent" value="10535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
