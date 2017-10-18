@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c33f73d-cec5-49f3-92d0-5e551d374a3c" name="Default" comment="" />
+    <list default="true" id="2c33f73d-cec5-49f3-92d0-5e551d374a3c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/SortLibrary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/SortLibrary.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Main.class" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/MergeSort.class" afterPath="$PROJECT_DIR$/out/production/classes/MergeSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Sorting.class" afterPath="$PROJECT_DIR$/out/production/classes/Sorting.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/MergeSort.java" afterPath="$PROJECT_DIR$/src/main/java/MergeSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Sorting.java" afterPath="$PROJECT_DIR$/src/main/java/Sorting.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -44,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            <state relative-caret-position="391">
+              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -57,9 +67,11 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <marker date="1508352653923" expanded="true" signature="30:67" ph="jdk: &lt;3 items&gt;" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,22 +93,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultSortTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DefaultSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MergeSortTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MergeSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="187">
               <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -105,26 +105,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OddEvenSortTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/OddEvenSortTest.java">
+      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSortTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/QuickSortTest.java">
+      <file leaf-file-name="Sorting.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Sorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="20" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -460,12 +466,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Sorting.java" />
         <option value="$PROJECT_DIR$/src/main/java/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/OddEvenSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/SortLibrary.java" />
         <option value="$PROJECT_DIR$/src/main/java/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/DefaultSort.java" />
@@ -480,8 +484,11 @@
         <option value="$PROJECT_DIR$/src/main/java/ArraysTask.java" />
         <option value="$PROJECT_DIR$/src/test/java/ShellSortTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ArraysTaskTest.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -530,6 +537,13 @@
               <item name="lab444444444" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab444444444" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
@@ -787,7 +801,7 @@
       <workItem from="1507823516270" duration="763000" />
       <workItem from="1507824404839" duration="117000" />
       <workItem from="1507824586914" duration="1856000" />
-      <workItem from="1508350126287" duration="1792000" />
+      <workItem from="1508350126287" duration="2501000" />
     </task>
     <servers />
   </component>
@@ -804,8 +818,8 @@
     <history-entry file="All_in_lab4_test - 2017.10.18 at 21h 36m 04s.xml">
       <configuration name="All in lab4_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArraysTaskTest - 2017.10.08 at 23h 06m 41s.xml">
-      <configuration name="ArraysTaskTest" configurationId="JUnit" />
+    <history-entry file="All_in_lab4_test - 2017.10.18 at 21h 55m 52s.xml">
+      <configuration name="All in lab4_test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ArraysTaskTest - 2017.10.08 at 23h 06m 57s.xml">
       <configuration name="ArraysTaskTest" configurationId="JUnit" />
@@ -824,7 +838,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13049000" />
+    <option name="totallyTimeSpent" value="13758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -839,12 +853,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -857,7 +872,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1168,13 +1182,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/OddEvenSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1196,31 +1203,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="49" lean-forward="true" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SortLibrary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="143" column="1" lean-forward="false" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1287,16 +1273,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/MergeSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1381,16 +1357,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <marker date="1508352653923" expanded="true" signature="30:67" ph="jdk: &lt;3 items&gt;" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="391">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Sorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SortLibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="142" column="5" lean-forward="true" selection-start-line="138" selection-start-column="4" selection-end-line="142" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>

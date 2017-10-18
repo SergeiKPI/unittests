@@ -38,9 +38,5 @@ public class MergeSort<T extends Comparable<T>> implements Sorting<T>{
         merge(arr,left,mid,right);
 
     }
-    public void swap(T[] arr,int i,int j){
-        T tmp = arr[j];
-        arr[j]=arr[i];
-        arr[i]=tmp;
-    }
+
 }
