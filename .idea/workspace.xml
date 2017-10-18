@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c33f73d-cec5-49f3-92d0-5e551d374a3c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/classes/SortLibrary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/SortLibrary.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Main.class" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/MergeSort.class" afterPath="$PROJECT_DIR$/out/production/classes/MergeSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/Sorting.class" afterPath="$PROJECT_DIR$/out/production/classes/Sorting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/MergeSort.java" afterPath="$PROJECT_DIR$/src/main/java/MergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Sorting.java" afterPath="$PROJECT_DIR$/src/main/java/Sorting.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ArraysTask.java" afterPath="$PROJECT_DIR$/src/main/java/ArraysTask.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/DefaultSort.java" afterPath="$PROJECT_DIR$/src/main/java/DefaultSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ShellSort.java" afterPath="$PROJECT_DIR$/src/main/java/ShellSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -32,8 +27,8 @@
       <file leaf-file-name="ArraysTask.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ArraysTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="188" column="10" lean-forward="false" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="174" column="5" lean-forward="false" selection-start-line="174" selection-start-column="5" selection-end-line="200" selection-end-column="7" />
               <folding>
                 <element signature="method#readArray#0;class#ArraysTask#0" expanded="false" />
                 <element signature="method#numOfPaired#0;class#ArraysTask#0" expanded="false" />
@@ -47,8 +42,6 @@
                 <element signature="method#showMatrix#0;class#ArraysTask#0" expanded="false" />
                 <element signature="method#showArray#0;class#ArraysTask#0" expanded="false" />
                 <element signature="method#excersiceB#0;class#ArraysTask#0" expanded="false" />
-                <element signature="method#excersiceC#0;class#ArraysTask#0" expanded="false" />
-                <element signature="method#excersiceD#0;class#ArraysTask#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -79,8 +72,8 @@
       <file leaf-file-name="ArraysTaskTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ArraysTaskTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-182">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#numOfPairedTest#0;class#ArraysTaskTest#0" expanded="false" />
@@ -89,6 +82,16 @@
                 <element signature="method#sumLargeAndSMallTest#0;class#ArraysTaskTest#0" expanded="false" />
                 <element signature="method#maxAbsTest#0;class#ArraysTaskTest#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShellSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ShellSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,33 +128,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <file leaf-file-name="DefaultSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DefaultSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectionSortTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SelectionSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShellSortTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ShellSortTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -471,8 +452,6 @@
         <option value="$PROJECT_DIR$/src/main/java/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/OddEvenSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/SortLibrary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DefaultSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Lab.java" />
         <option value="$PROJECT_DIR$/src/test/java/SortingTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/BubbleSortingTest.java" />
@@ -481,7 +460,6 @@
         <option value="$PROJECT_DIR$/src/test/java/MergeSortTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/OddEvenSortTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SelectionSortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ArraysTask.java" />
         <option value="$PROJECT_DIR$/src/test/java/ShellSortTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ArraysTaskTest.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
@@ -489,6 +467,9 @@
         <option value="$PROJECT_DIR$/src/main/java/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Sorting.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DefaultSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArraysTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ShellSort.java" />
       </list>
     </option>
   </component>
@@ -801,7 +782,7 @@
       <workItem from="1507823516270" duration="763000" />
       <workItem from="1507824404839" duration="117000" />
       <workItem from="1507824586914" duration="1856000" />
-      <workItem from="1508350126287" duration="2501000" />
+      <workItem from="1508350126287" duration="2798000" />
     </task>
     <servers />
   </component>
@@ -838,11 +819,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13758000" />
+    <option name="totallyTimeSpent" value="14055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -853,11 +833,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -904,8 +884,6 @@
             <element signature="method#showMatrix#0;class#ArraysTask#0" expanded="false" />
             <element signature="method#showArray#0;class#ArraysTask#0" expanded="false" />
             <element signature="method#excersiceB#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceC#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceD#0;class#ArraysTask#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1018,8 +996,6 @@
             <element signature="method#showMatrix#0;class#ArraysTask#0" expanded="false" />
             <element signature="method#showArray#0;class#ArraysTask#0" expanded="false" />
             <element signature="method#excersiceB#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceC#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceD#0;class#ArraysTask#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1074,8 +1050,6 @@
             <element signature="method#showMatrix#0;class#ArraysTask#0" expanded="false" />
             <element signature="method#showArray#0;class#ArraysTask#0" expanded="false" />
             <element signature="method#excersiceB#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceC#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceD#0;class#ArraysTask#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1130,8 +1104,6 @@
             <element signature="method#showMatrix#0;class#ArraysTask#0" expanded="false" />
             <element signature="method#showArray#0;class#ArraysTask#0" expanded="false" />
             <element signature="method#excersiceB#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceC#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceD#0;class#ArraysTask#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1165,20 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="35" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DefaultSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1317,44 +1275,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ArraysTaskTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#numOfPairedTest#0;class#ArraysTaskTest#0" expanded="false" />
-            <element signature="method#sumOfMultThreeTest#0;class#ArraysTaskTest#0" expanded="false" />
-            <element signature="method#diffMinMaxTest#0;class#ArraysTaskTest#0" expanded="false" />
-            <element signature="method#sumLargeAndSMallTest#0;class#ArraysTaskTest#0" expanded="false" />
-            <element signature="method#maxAbsTest#0;class#ArraysTaskTest#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArraysTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="188" column="10" lean-forward="false" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
-          <folding>
-            <element signature="method#readArray#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#numOfPaired#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#sumOfElMyltByThree#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#mean#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#maxAbs#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#minElement#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#maxElement#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#readInt#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#genereteMatrix#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#showMatrix#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#showArray#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceB#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceC#0;class#ArraysTask#0" expanded="false" />
-            <element signature="method#excersiceD#0;class#ArraysTask#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1411,6 +1331,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="20" column="0" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DefaultSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArraysTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="174" column="5" lean-forward="false" selection-start-line="174" selection-start-column="5" selection-end-line="200" selection-end-column="7" />
+          <folding>
+            <element signature="method#readArray#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#numOfPaired#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#sumOfElMyltByThree#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#mean#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#maxAbs#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#minElement#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#maxElement#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#readInt#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#genereteMatrix#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#showMatrix#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#showArray#0;class#ArraysTask#0" expanded="false" />
+            <element signature="method#excersiceB#0;class#ArraysTask#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArraysTaskTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#numOfPairedTest#0;class#ArraysTaskTest#0" expanded="false" />
+            <element signature="method#sumOfMultThreeTest#0;class#ArraysTaskTest#0" expanded="false" />
+            <element signature="method#diffMinMaxTest#0;class#ArraysTaskTest#0" expanded="false" />
+            <element signature="method#sumLargeAndSMallTest#0;class#ArraysTaskTest#0" expanded="false" />
+            <element signature="method#maxAbsTest#0;class#ArraysTaskTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>

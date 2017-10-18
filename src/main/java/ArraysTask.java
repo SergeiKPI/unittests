@@ -172,33 +172,33 @@ public class ArraysTask {
         return sequence;
     }
     //number of lines all elements of which are zeros
-    public int excersiceC(int[][] matrix){
-        int result=0;
-        for(int i = 0;i<matrix.length;i++){
-            int counter=0;
-            for (int j = 0;j<matrix[i].length;j++){
-                if(matrix[i][j]==0)
-                    counter++;
-            }
-            if(counter==matrix.length)
-                result++;
-        }
-        return result;
-    }
-    //number of lines the elements in each of them are the same.
-    public int excersiceD(int[][] matrix){
-        int result=0;
-        for(int i = 0;i<matrix.length;i++){
-            int counter=0;
-            for (int j = 0;j<matrix[i].length;j++){
-                if(matrix[i][j]==matrix[i][0])
-                    counter++;
-            }
-            if(counter==matrix.length)
-                result++;
-        }
-        return result;
-    }
+//    public int excersiceC(int[][] matrix){
+//        int result=0;
+//        for(int i = 0;i<matrix.length;i++){
+//            int counter=0;
+//            for (int j = 0;j<matrix[i].length;j++){
+//                if(matrix[i][j]==0)
+//                    counter++;
+//            }
+//            if(counter==matrix.length)
+//                result++;
+//        }
+//        return result;
+//    }
+//    //number of lines the elements in each of them are the same.
+//    public int excersiceD(int[][] matrix){
+//        int result=0;
+//        for(int i = 0;i<matrix.length;i++){
+//            int counter=0;
+//            for (int j = 0;j<matrix[i].length;j++){
+//                if(matrix[i][j]==matrix[i][0])
+//                    counter++;
+//            }
+//            if(counter==matrix.length)
+//                result++;
+//        }
+//        return result;
+//    }
 
 
 //    public static void main(String[] args) {
