@@ -9,6 +9,6 @@ before_install:
  - chmod +x gradlew 
  script:
   - ./gradlew check
-  - ./gradlew codeCoverageReport
+  - ./gradlew jacocoTestReport
 after_success:
   - bash <(curl -s https://codecov.io/bash) -t 312054ab-7e9d-4508-9288-b6668799adf7
