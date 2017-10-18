@@ -8,3 +8,4 @@ before_install:
  - chmod +x gradlew 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+  -java -cp codacy-coverage-reporter-2.0.1-assembly.jar com.codacy.CodacyCoverageReporter -l Java -r jacoco.xml -t 8ed53c1ca9254249b47adaeced636ee8
