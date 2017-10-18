@@ -21,6 +21,6 @@ jacocoTestReport {
     }
 }
 
-codeCoverageReport.dependsOn {
+check.dependsOn jacocoTestReport {
     subprojects*.test
 }
