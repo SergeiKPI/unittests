@@ -43,13 +43,13 @@ public class ArraysTask {
         return maxElement(array)-minElement(array);
     }
     //mean of array's elements
-    public float mean(int[] array){
-        int sum=0;
-        for(int i=0;i<array.length;i++){
-            sum+=array[i];
-        }
-        return sum/array.length;
-    }
+//    public float mean(int[] array){
+//        int sum=0;
+//        for(int i=0;i<array.length;i++){
+//            sum+=array[i];
+//        }
+//        return sum/array.length;
+//    }
     //sum of the largest and the smallest elements in array
     public  int sumLargAndSmall(int[] array){
         int max = maxElement(array);
@@ -116,22 +116,7 @@ public class ArraysTask {
             return genereteMatrix();
         }
     }
-    //display matrix
-    private void showMatrix(int[][] matrix){
-        for(int i=0;i<matrix.length;i++){
-            for(int j =0;j<matrix[i].length;j++){
-                System.out.print(matrix[i][j]+" ");
-            }
-            System.out.print('\n');
-        }
-    }
-    //displayarray
-    private void showArray(int[] arr){
-        for(int i = 0;i<arr.length;i++){
-            System.out.print(arr[i]+" ");
-        }
-        System.out.println();
-    }
+
     //sum of the elements located behind the first negative element
     public int[] excersiceA(int[][] matrix){
         int[] sequence=new int[matrix.length];
