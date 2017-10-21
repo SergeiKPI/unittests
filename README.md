@@ -1,1 +1,3 @@
-[![Code Coverage](https://img.shields.io/codecov/c/github/pvorb/property-providers/develop.svg)](https://codecov.io/github/pvorb/property-providers?branch=develop)
+[![codecov](https://codecov.io/gh/ka2803/unittests/branch/master/graph/badge.svg)](https://codecov.io/gh/ka2803/unittests)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3197ebe6cc0f4f2db68bf550d9dd2e62)](https://www.codacy.com/app/ka2803/unittests?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ka2803/unittests&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/3197ebe6cc0f4f2db68bf550d9dd2e62)](https://www.codacy.com/app/ka2803/unittests?utm_source=github.com&utm_medium=referral&utm_content=ka2803/unittests&utm_campaign=Badge_Coverage)
